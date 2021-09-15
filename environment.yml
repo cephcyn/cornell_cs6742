@@ -7,5 +7,7 @@ dependencies:
   - matplotlib
   - python=3.9
   - pip
+  - scipy
   - pip:
     - jsonlist==0.1.0
+    - networkx==2.6.3
