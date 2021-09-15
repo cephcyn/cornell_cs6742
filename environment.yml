@@ -1,0 +1,11 @@
+name: cs6742_a1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - python=3.9
+  - pip
+  - pip:
+    - jsonlist==0.1.0
